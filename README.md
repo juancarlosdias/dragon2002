@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,********** Fussball **********
-http://s1.fwmrm.net/m/1/169843/13/66246797/AXMT0999100H_ENT_MEZZ_HULU_hls_6448643_558/AXMT0999100H_ENT_MEZZ_HULU_hls_6448643_558.m3u8
+http://cdn.adultiptv.2net/milf.m3u8
 #EXTINF:-1,DE | Sky Sport Bundesliga
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/88932.ts
 #EXTINF:-1,DE | Sky Sport Bundesliga 1 HD
