@@ -2,7 +2,7 @@
 #EXTINF:-1,********** Fussball **********
 http://cdn.adultiptv.2net/milf.m3u8
 #EXTINF:-1,DE | Sky Sport Bundesliga
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/88932.ts
+http://cdn.adultiptv.2net/milf.m3u8
 #EXTINF:-1,DE | Sky Sport Bundesliga 1 HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/4508.ts
 #EXTINF:-1,Sky Sport Bundesliga 1 FullHD
